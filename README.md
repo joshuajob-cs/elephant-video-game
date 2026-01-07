@@ -1,4 +1,4 @@
-# ElephantVideoGame
+# Elephant Video Game
 
 For my high school senior project I researched the Godot engine and programmed ~10 minutes of a video game intended to teach people Calculus.
   
